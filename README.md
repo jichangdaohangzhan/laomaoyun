@@ -41,7 +41,6 @@
 | **E套餐** | ¥40.00 | 月付 | 300G | 7天无理由退款 | 400Mbps | IEPL专线，无视墙，Netflix/TVB/Hulu解锁，99%服务可用率，UDP转发 |
 | **F套餐** | ¥150.00 | 季付 | 500G | 7天无理由退款 | 500Mbps | IEPL专线，无视墙，Netflix/TVB/Hulu解锁，99%服务可用率，UDP转发 |
 
-这样清晰了吗？如果需要其他格式，比如 Excel 表格，我也可以帮你生成！
 ![image](https://github.com/user-attachments/assets/9e809d3b-24a9-489f-a1a1-4c58629ed9bc)
 
 ## 完成支付
